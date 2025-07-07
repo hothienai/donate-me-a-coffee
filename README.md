@@ -1,4 +1,10 @@
 # Đôi lời chia sẻ về điều mình tâm huyết
+<p align="center">
+  <a href="." title="Donate me a coffee">
+    <img src="/assets/images/donate-me-a-coffee.png" title="Donate me a coffee" style="width: 100vw; min-width: 200px"/>
+  </a>
+</p>
+
 :loudspeaker: Xin chào các bạn, động lực xuyên suốt ở trang Github cá nhân của mình là vì mục đích chia sẻ kiến thức liên quan đến lập trình nhúng.
 
 :rocket: Đây là lĩnh vực mình có nhiều năm kinh nghiệm bắt đầu lúc mình học đại học, rồi bắt đầu đi làm và kéo dài cho đến hôm nay. Có thể những kiến thức mình chia sẻ ở đây đối với các bạn không mới hoặc các bạn có thể dễ dàng tìm được ở đâu đó trên internet. 
@@ -20,9 +26,19 @@
 
 # Các bạn có thể ủng hộ mình qua những kênh sau:
 :gift: :gift: :gift:
-## Qua ngân hàng
+## Qua Ngân hàng
+<p align="center">
+  <a href="." title="Vcb">
+    <img src="/assets/images/vcb.jpg" title="Vcb" style="width: 100vw; min-width: 200px"/>
+  </a>
+</p>
 
 ## Qua Momo
+<p align="center">
+  <a href="." title="Momo">
+    <img src="/assets/images/momo.jpg" title="Momo" style="width: 100vw; min-width: 200px"/>
+  </a>
+</p>
 
 # Lời cảm ơn
 :pray: Xin chân thành cảm ơn các bạn đã ủng hộ! Hãy cùng nhau lan tỏa những điều tốt đẹp và sự tử tế này!
