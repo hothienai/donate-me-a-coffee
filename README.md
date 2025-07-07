@@ -29,14 +29,14 @@
 ## Qua Ngân hàng
 <p align="center">
   <a href="." title="Vcb">
-    <img src="/assets/images/vcb.jpg" title="Vcb" style="width: 100vw; min-width: 200px"/>
+    <img src="/assets/images/vcb.jpg" title="Vcb" style="max-width: 50px"/>
   </a>
 </p>
 
 ## Qua Momo
 <p align="center">
   <a href="." title="Momo">
-    <img src="/assets/images/momo.jpg" title="Momo" style="width: 100vw; min-width: 200px"/>
+    <img src="/assets/images/momo.jpg" title="Momo" style="max-width: 50px"/>
   </a>
 </p>
 
