@@ -30,7 +30,7 @@
 # Các bạn có thể ủng hộ mình qua những kênh sau:
 :gift: :gift: :gift:
 
-:white_check_mark: Các bạn lưu ý tên tài khoản đúng: HO THIEN AI, trước khi thực hiện chuyển khoản.
+:white_check_mark: Các bạn lưu ý tên tài khoản đúng, trước khi thực hiện chuyển khoản.
 ## Qua Ngân hàng
 Tài khoản Vietcombank
 * Chủ tài khoản: HO THIEN AI
@@ -80,7 +80,7 @@ The topics I share are based on questions that employers often ask during interv
 # You can support me through the followng channels:
 :gift: :gift: :gift:
 
-:white_check_mark: Please make sure the account name is correct: Ái Hồ, before making a transfer.
+:white_check_mark: Please make sure the account name is correct, before making a transfer.
 ## Via Paypal
 
 PayPal Me link for Ai Ho:
