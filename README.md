@@ -87,6 +87,12 @@ PayPal Me link for Ai Ho:
 
 https://www.paypal.com/paypalme/hothienai
 
+<p align="center">
+  <a href="." title="paypalme/hothienai">
+    <img src="/assets/images/paypalme_hothienai.PNG" title="paypalme/hothienai" style="min-width: 200px"/>
+  </a>
+</p>
+
 # Thank for your support!
 :pray: I sincerely appreciate your support! You are so kind. Let’s spread this goodness and kindness together!
 
