@@ -6,8 +6,8 @@
 </p>
 
 :point_down: Please select the language version that suits you:
-* [Vietnamese Version](#điều-mình-tâm-huyết)
 * [English Version](#what-i-am-passionate-about)
+* [Vietnamese Version](#điều-mình-tâm-huyết)
 
 # Điều Mình Tâm Huyết!
 :loudspeaker: Xin chào các bạn, động lực xuyên suốt ở trang Github cá nhân của mình là vì mục đích chia sẻ kiến thức liên quan đến lập trình nhúng.
