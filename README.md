@@ -5,6 +5,7 @@
   </a>
 </p>
 
+:point_down: Please select the language version that suits you:
 * [Vietnamese Version](#điều-mình-tâm-huyết)
 * [English Version](#what-i-am-passionate-about)
 
@@ -28,18 +29,24 @@
 
 # Các bạn có thể ủng hộ mình qua những kênh sau:
 :gift: :gift: :gift:
+
 :white_check_mark: Các bạn lưu ý tên tài khoản đúng: HO THIEN AI, trước khi thực hiện chuyển khoản.
 ## Qua Ngân hàng
+Tài khoản Vietcombank
+* Chủ tài khoản: HO THIEN AI
+* Số tài khoản: 0071001102501
 <p align="center">
   <a href="." title="Vcb">
-    <img src="/assets/images/vcb.jpg" title="Vcb" style="min-width: 200px"/>
+    <img src="/assets/images/vcb.jpg" title="Vcb" style="width: 30vw; min-width: 200px"/>
   </a>
 </p>
 
 ## Qua Momo
+Tài khoản Momo
+* Chủ tài khoản: HỒ THIỆN ÁI
 <p align="center">
   <a href="." title="Momo">
-    <img src="/assets/images/momo.jpg" title="Momo" style="min-width: 200px"/>
+    <img src="/assets/images/momo.jpg" title="Momo" style="width: 30vw; min-width: 200px"/>
   </a>
 </p>
 
@@ -72,10 +79,11 @@ The topics I share are based on questions that employers often ask during interv
 
 # You can support me through the followng channels:
 :gift: :gift: :gift:
+
 :white_check_mark: Please make sure the account name is correct: Ái Hồ, before making a transfer.
 ## Via Paypal
 
-PayPal Me link:
+PayPal Me link for Ai Ho:
 
 https://www.paypal.com/paypalme/hothienai
 
