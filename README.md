@@ -37,7 +37,7 @@ Tài khoản Vietcombank
 * Số tài khoản: 0071001102501
 <p align="center">
   <a href="." title="Vcb">
-    <img src="/assets/images/vcb.jpg" title="Vcb" style="width: 30vw; min-width: 200px"/>
+    <img src="/assets/images/vcb.jpg" title="Vcb" style="max-width: 100%; height: auto;"/>
   </a>
 </p>
 
@@ -46,7 +46,7 @@ Tài khoản Momo
 * Chủ tài khoản: HỒ THIỆN ÁI
 <p align="center">
   <a href="." title="Momo">
-    <img src="/assets/images/momo.jpg" title="Momo" style="width: 30vw; min-width: 200px"/>
+    <img src="/assets/images/momo.jpg" title="Momo" style="max-width: 100%; height: auto;"/>
   </a>
 </p>
 
