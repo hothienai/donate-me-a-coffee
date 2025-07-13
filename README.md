@@ -89,7 +89,7 @@ https://www.paypal.com/paypalme/hothienai
 
 <p align="center">
   <a href="." title="paypalme/hothienai">
-    <img src="/assets/images/paypalme_hothienai.PNG" title="paypalme/hothienai" style="min-width: 200px"/>
+    <img src="/assets/images/paypalme_hothienai.PNG" title="paypalme/hothienai" style="max-width: 100%; height: auto;"/>
   </a>
 </p>
 
